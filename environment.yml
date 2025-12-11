@@ -119,7 +119,7 @@ dependencies:
       - antlr4-python3-runtime==4.9.3
       - anyio==4.3.0
       - anykeystore==0.2
-      - apex==0.1
+      - apex
       - appdirs==1.4.4
       - argon2-cffi==23.1.0
       - argon2-cffi-bindings==21.2.0
@@ -155,7 +155,7 @@ dependencies:
       - fairscale==0.4.13
       - fastjsonschema==2.18.0
       - filterpy==1.4.5
-      - flash-attn==2.6.3
+      # - flash-attn==2.6.3
       - flatbuffers==25.2.10
       - fonttools==4.42.1
       - fqdn==1.5.1
@@ -234,9 +234,9 @@ dependencies:
       - ninja==1.11.1
       - notebook==7.1.1
       - notebook-shim==0.2.3
-      - numba==0.57.1
-      - numpy==1.24.4
-      - nvdiffrast==0.3.1
+      - numba
+      - numpy==1.25.0
+      # - nvdiffrast==0.3.1
       - nvidia-cublas-cu11==11.10.3.66
       - nvidia-cublas-cu12==12.1.3.1
       - nvidia-cuda-cupti-cu11==11.7.101
